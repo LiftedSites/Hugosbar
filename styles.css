@@ -98,7 +98,7 @@ body {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('attached_assets/image_1756816320661.png');
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../Hugosbar/attached_assets/image_1756816320661.png');
     background-size: cover;
     background-position: center 20%;
     background-repeat: no-repeat;
@@ -331,7 +331,7 @@ body {
 }
 
 .lakeside-bg {
-    background: url('attached_assets/Lake_1756815246873.png');
+    background: url('../Hugosbar/attached_assets/Lake_1756815246873.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
